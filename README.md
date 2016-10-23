@@ -8,4 +8,4 @@ Developed with Visual Studio with the following middleware and framework
 ##Contents
 **Game Executable** is in the Gold Build folder  
 **Build files** are in the Build folder  
-Video of Sample [Gameplay](https://www.youtube.com/embed/5OFMOtmH8HQ)
+Video of Sample [**Gameplay**](https://www.youtube.com/embed/5OFMOtmH8HQ)
